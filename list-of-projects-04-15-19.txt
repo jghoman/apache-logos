@@ -1,0 +1,366 @@
+.NET Ant Library
+Abdera (in the Attic)
+Accumulo
+ACE (in the Attic)
+ActiveMQ
+Airavata
+Airflow
+Allura
+Amaterasu (Incubating)
+Ambari
+Anakia
+Annotator (Incubating)
+Ant
+AntUnit
+Any23
+Apex
+Archiva
+Aries
+Arrow
+AsterixDB
+Atlas
+Aurora
+Avro
+Axiom
+Axis2
+Bahir
+BatchEE (Incubating)
+Batik
+Beam
+Beehive (in the Attic)
+Bigtop
+Bloodhound
+BookKeeper
+Brooklyn
+BRPC (Incubating)
+Buildr
+BVal
+Calcite
+Camel
+CarbonData
+Cassandra
+Cayenne
+Celix
+Chainsaw
+Chemistry
+Chukwa
+Clerezza
+Click (in the Attic)
+CloudStack
+Cocoon
+Commons BCEL
+Commons BeanUtils
+Commons BSF
+Commons Chain
+Commons CLI
+Commons Codec
+Commons Collections
+Commons Compress
+Commons Configuration
+Commons Daemon
+Commons DBCP
+Commons DbUtils
+Commons Digester
+Commons Discovery
+Commons EL
+Commons Email
+Commons Exec
+Commons FileUpload
+Commons Functor
+Commons HttpClient
+Commons IO
+Commons JCI
+Commons JCS
+Commons Jelly
+Commons JEXL
+Commons JXPath
+Commons Lang
+Commons Launcher
+Commons Logging
+Commons Math
+Commons Modeler
+Commons Net
+Commons OGNL
+Commons Pool
+Commons Proxy
+Commons RNG
+Commons SCXML
+Commons Validator
+Commons VFS
+Commons Weaver
+Community Development
+Compress Ant Library
+Continuum (in the Attic)
+Cordova
+CouchDB
+Crail (Incubating)
+Crunch
+cTAKES
+Curator
+CXF
+Daffodil (Incubating)
+DataFu
+DataFu (Incubating)
+DataSketches (Incubating)
+Deltacloud (in the Attic)
+DeltaSpike
+Derby
+DeviceMap (in the Attic)
+DirectMemory (in the Attic)
+Directory
+Directory Server
+Directory Studio
+DLab (Incubating)
+Doris (Incubating)
+DRAT
+Drill
+Druid (Incubating)
+Dubbo (Incubating)
+Eagle
+ECharts (Incubating)
+ECS (in the Attic)
+Edgent (Incubating)
+Empire-db
+ESME (in the Attic)
+Etch (in the Attic)
+Excalibur (in the Attic)
+Falcon
+Felix
+Fineract
+Flagon (Incubating)
+Flex
+Flink
+Flume
+Fluo
+Fluo Recipes
+Fluo YARN
+FOP
+Forrest
+Fortress
+FreeMarker
+FreeMarker (Incubating)
+FtpServer
+Geode
+Geronimo
+Giraph
+Gobblin (Incubating)
+Gora
+Griffin
+Groovy
+Guacamole
+Gump
+Hadoop
+Hama
+Harmony (in the Attic)
+HAWQ
+HBase
+Helix
+Heron (Incubating)
+Hive
+Hivemall (Incubating)
+Hivemind (in the Attic)
+HTTP Server
+HttpComponents Client
+HttpComponents Core
+Hudi (Incubating)
+Iceberg (Incubating)
+Ignite
+Impala
+IoTDB (Incubating)
+Isis
+Ivy
+IvyDE
+Jackrabbit
+Jakarta Cactus (in the Attic)
+JAMES
+jclouds
+Jena
+JMeter
+Johnzon
+Joshua
+JSPWiki
+Juneau
+Kafka
+Karaf
+Kerby
+Kibble
+Knox
+Kudu
+Kylin
+Labs
+Lens
+Lenya (in the Attic)
+Libcloud
+Livy (Incubating)
+log4cxx
+Log4j 2
+log4net
+log4php
+Lucene Core
+Lucene.Net
+Lucy (in the Attic)
+MADlib
+Mahout
+ManifoldCF
+Marmotta
+Marvin-AI (Incubating)
+Maven
+Maven Doxia
+Mesos
+MetaModel
+Metron
+Milagro (incubating)
+MINA
+Mnemonic
+mod_ftp
+mod_perl
+MRUnit (in the Attic)
+MXNet (Incubating)
+MyFaces
+Mynewt
+Myriad (Incubating)
+Nemo (Incubating)
+NetBeans (Incubating)
+NiFi
+Nutch
+ODE
+OFBiz
+Olingo
+Oltu - Parent (in the Attic)
+Omid (Incubating)
+OODT
+Oozie
+Open Climate Workbench
+OpenJPA
+OpenMeetings
+OpenNLP
+OpenOffice
+OpenWebBeans
+OpenWhisk (Incubating)
+ORC
+ORO (in the Attic)
+PageSpeed (Incubating)
+Parquet
+PDFBox
+Phoenix
+Pig
+Pinot (Incubating)
+Pivot
+PLC4X (Incubating)
+POI
+Polygene (in the Attic)
+Pony Mail (Incubating)
+Portable Runtime
+Portals
+PredictionIO
+Props Ant Library
+Pulsar
+Qpid
+Ranger
+Rat
+Ratis (Incubating)
+REEF
+Regexp (in the Attic)
+Reusable Dialog Components (RDC) Taglib
+River
+Rivet
+RocketMQ
+Roller
+Royale
+Rya (Incubating)
+S2Graph (Incubating)
+SAMOA (Incubating)
+Samza
+Sandesha2
+Santuario
+Scout
+SDAP (Incubating)
+Sentry
+Serf
+ServiceComb
+ServiceMix
+Shale (in the Attic)
+ShardingSphere (Incubating)
+Shindig (in the Attic)
+Shiro
+SINGA (Incubating)
+SkyWalking (Incubating)
+Sling
+Solr
+SpamAssassin
+Spark
+Spatial Information System
+Spot (Incubating)
+Sqoop
+SSHD
+Stanbol
+Steve
+Storm
+Stratos (in the Attic)
+Streams
+Struts
+Subversion
+Superset (Incubating)
+Synapse
+Syncope
+SystemML
+Tajo
+Tamaya (Incubating)
+Tapestry
+Taverna (Incubating)
+Tentacles
+Tephra (Incubating)
+Texen
+Tez
+Thrift
+Tika
+Tiles (in the Attic)
+TinkerPop
+Tobago
+Tomcat
+TomEE
+Toree (Incubating)
+Torque
+Traffic Control
+Traffic Server
+Trafodion
+Training (Incubating)
+Turbine
+Tuscany (in the Attic)
+Tuweni (Incubating)
+TVM (Incubating)
+Twill
+UIMA
+Unomi
+Usergrid
+VCL
+Velocity
+Velocity DVSL
+Velocity Tools
+VSS Ant Library
+VXQuery
+Vysper
+Warble (Incubating)
+Websh
+Weex (Incubating)
+Whimsy
+Whirr (in the Attic)
+Whisker
+Wicket
+Wink (in the Attic)
+Woden
+Wookie (in the Attic)
+Xalan for C++ XSLT Processor
+Xalan for Java XSLT Processor
+Xerces for C++ XML Parser
+Xerces for Java XML Parser
+Xerces for Perl XML Parser
+Xindice (in the Attic)
+XML Commons External
+XML Commons Resolver
+XML Graphics Commons
+XMLBeans
+Yetus
+Zeppelin
+Zipkin (Incubating)
+ZooKeeper

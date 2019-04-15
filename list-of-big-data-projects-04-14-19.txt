@@ -1,0 +1,49 @@
+Apache Accumulo
+Project Apache Airavata
+Project Apache Ambari
+Project Apache Apex
+Project Apache Avro
+Project Apache Beam
+Project Apache Bigtop
+Project Apache BookKeeper
+Project Apache Calcite
+Project Apache CarbonData
+Project Apache CouchDB
+Project Apache Crunch
+Project Apache Daffodil (Incubating)
+Project Apache DataFu (Incubating)
+Project Apache DirectMemory (in the Attic)
+Project Apache Drill
+Project Apache Edgent (Incubating)
+Project Apache Falcon
+Project Apache Flink
+Project Apache Flume
+Project Apache Fluo
+Project Apache Fluo Recipes
+Project Apache Fluo YARN
+Project Apache Giraph
+Project Apache Hama
+Project Apache Helix
+Project Apache Ignite
+Project Apache Kafka
+Project Apache Kibble
+Project Apache Knox
+Project Apache Kudu
+Project Apache Lens
+Project Apache MetaModel
+Project Apache OODT
+Project Apache Oozie
+Project Apache ORC
+Project Apache Parquet
+Project Apache Phoenix
+Project Apache PredictionIO
+Project Apache REEF
+Project Apache Samza
+Project Apache Spark
+Project Apache Sqoop
+Project Apache Storm
+Project Apache Tajo
+Project Apache Tez
+Project Apache Trafodion
+Project Apache VXQuery
+Project Apache Zeppelin
